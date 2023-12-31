@@ -20,7 +20,7 @@ echo head('Home', 'index');
 </style>
 
 <script>
-    document.getElementById('javascript').innerHTML = 'Hey! I\'m JavaScript!';
+    document.getElementById('javascript').innerHTML = 'Text Using JS // by a.shdi';
 </script>
 
 <?php
