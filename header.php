@@ -1,6 +1,6 @@
 <!-- by github.com/AmiraliShadi -->
 <header>
     <h1>
-        SPA - PHP
+        SPA Using PHP & JS
     </h1>
 </header>
