@@ -8,7 +8,7 @@ echo head('Home', 'index');
     Home
 </h1>
 <p>
-    Welcome to my website
+    Welcome to this sample.
 </p>
 
 <pre id="javascript"></pre>
